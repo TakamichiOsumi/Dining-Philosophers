@@ -1,3 +1,9 @@
+GTAGS
+GRTAGS
+GPATH
+
+dining_philosophers
+
 # Prerequisites
 *.d
 
